@@ -34,7 +34,7 @@ termux-reload-settings
 ```
 
 This will add the following extra keys
------------- | -------------
+Col 1 | Col 2
 Content from cell 1 | Content from cell 2
 
 ## Setup Termux Access Storage
