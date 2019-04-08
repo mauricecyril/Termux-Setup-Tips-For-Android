@@ -33,13 +33,6 @@ exit and restart termux or reload settings by typing the following:
 termux-reload-settings
 ```
 
-This will add the following extra keys
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 ## Setup Termux Access Storage
 Run the following command in Termux
 ```shell
