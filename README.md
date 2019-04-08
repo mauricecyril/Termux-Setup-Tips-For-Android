@@ -36,5 +36,9 @@ termux-setup-storage
 
 ## Install Python
 ```shell
+pkg install python
+```
+or
+```shell
 apt install python
 ```
