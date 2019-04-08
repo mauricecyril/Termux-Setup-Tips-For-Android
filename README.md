@@ -33,7 +33,7 @@ termux-reload-settings
 
 Alternatively
 ```shell
-mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','BACKSPACE','-','|','HOME','UP','END','PGUP'],['TAB','CTRL','ALT',':',';','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','BACKSPACE','-','|','HOME','UP','END','PGUP'],['TAB','CTRL','ALT',':',';','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties << EOF
 ```
 
 ## Setup Termux Access Storage
