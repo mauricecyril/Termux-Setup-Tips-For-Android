@@ -31,6 +31,11 @@ exit and restart termux or reload settings by typing the following:
 termux-reload-settings
 ```
 
+Alternatively
+```shell
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','BACKSPACE','-','|','HOME','UP','END','PGUP'],['TAB','CTRL','ALT',':',';','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties
+```
+
 ## Setup Termux Access Storage
 Run the following command in Termux
 ```shell
