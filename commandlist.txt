@@ -1,25 +1,3 @@
-termux-open
-termux-open-url
-termux-reload-settings
-termux-sensor
-termux-setup-storage
-termux-share
-termux-sms-inbox
-termux-sms-list
-termux-sms-send
-termux-speech-to-text
-termux-storage-get
-termux-telephony-call
-termux-telephony-cellinfo
-termux-telephony-deviceinfo
-termux-toast
-
-termux-tts-engines
-termux-tts-speak
-
-
-
-
 termux-audio-info
 termux-battery-status
 termux-brightness
@@ -69,3 +47,9 @@ termux-wake-unlock
 termux-wallpaper
 termux-wifi-connectioninfo
 termux-wifi-enable
+
+
+pkg search <query>
+pkg install <package>
+pkg upgrade
+pkg help
