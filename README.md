@@ -11,17 +11,17 @@ https://termux.com/
 
 ## Setup Extra Keys
 1. Create .termux/ directory
-'''shell
+''' shell
 mkdir .termux/
 '''
 
 2. Create termux-properties file
-'''shell
+''' shell
 nano .termux/termux-properties
 '''
 
 add the following string
-'''nanorc
+''' nanorc
 extra-keys = [['ESC','/','BACKSPACE','-','|','HOME','UP','END','PGUP'],['TAB','CTRL','ALT',':',';','LEFT','DOWN','RIGHT','PGDN']]
 '''
 
