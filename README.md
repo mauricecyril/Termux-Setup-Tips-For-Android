@@ -4,9 +4,7 @@ Some setup tips for Termux on Android
 
 ## Install Termux
 1. Install Termux:
-https://play.google.com/store/apps/details?id=com.termux&hl=en
-
-https://termux.com/
+https://play.google.com/store/apps/details?id=com.termux&hl=en or https://termux.com/
 
 2. Open Termux on your android device
 
