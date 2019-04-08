@@ -28,6 +28,15 @@ extra-keys = [['ESC','/','BACKSPACE','-','|','HOME','UP','END','PGUP'],['TAB','C
 
 and save the file by pressing "CTRL + O" or "CTRL + X"
 
+exit and restart termux or reload settings by typing the following:
+```shell
+termux-reload-settings
+```
+
+This will add the following extra keys
+------------ | -------------
+Content from cell 1 | Content from cell 2
+
 ## Setup Termux Access Storage
 Run the following command in Termux
 ```shell
